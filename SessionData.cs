@@ -9,7 +9,7 @@ namespace PatientPortal.Web.AuthHelpers {
         private const string ImpersonatedUserName = "ImpersonatedUserName";
         private const string PasswordTries = "ForgotPasswordAttempts";
         
-        private const string aesPassword = "37899888-8B9B-4E45-9961-702A8D6DF438";
+        private const string aesPassword = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
         private static RNGCryptoServiceProvider rngCsp = new RNGCryptoServiceProvider();
 
         public static int ClientId {
